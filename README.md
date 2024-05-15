@@ -1,5 +1,4 @@
 <!-- index.html -->
-<!DOCTYPE html>
 <html>
 <head>
     <title>Michael Mohr's Portfolio</title>
