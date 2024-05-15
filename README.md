@@ -1,6 +1,8 @@
 <!-- index.html -->
 <html>
 <head>
+    <body>
+        <header>
     <title>Portfolio</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
