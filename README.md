@@ -1,5 +1,5 @@
 body {
-    background-image: url('');
+    background-image: url('https://github.com/michael-mohr2024/michael-mohr2024.github.io/blob/main/background.jpeg');
     background-size: cover; /* This makes the background cover the whole page */
     background-repeat: no-repeat; /* Prevents the background from repeating */
     background-position: center center; /* Centers the background image */
