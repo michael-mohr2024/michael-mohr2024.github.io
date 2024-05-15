@@ -2,7 +2,7 @@
 <body>
     <header>
         <div id="header-content">
-            <img src="michael-mohr.jpg" alt="Profile Pic" id="profile-picture">
+            <img src="michael-mohr profile.jpg" alt="Profile Pic" id="profile-picture">
             <h1>Michael Mohr</h1>
             <h2>Cybersecurity Student</h2>
         </div>
