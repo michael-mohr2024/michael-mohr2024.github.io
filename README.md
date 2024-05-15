@@ -1,9 +1,4 @@
-<!-- index.html -->
-<html>
-<head>
-    <body>
-        <header>
-    <title>Portfolio</title>
+<title>Portfolio</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -62,5 +57,10 @@
         </section> 
     </main>
     <!-- ... -->
+<footer>
+        <p>Copyright &copy; 2024 Michael Mohr</p>
+    </footer>
+    <script src="script.js"></script>
 </body>
 </html>
+
