@@ -1,11 +1,10 @@
-body {
-    background-image: url('https://github.com/michael-mohr2024/michael-mohr2024.github.io/blob/main/background.jpeg');
-    background-size: cover; /
-    background-repeat: no-repeat; /
-    background-position: center center; 
-}
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
 <h1 class="text-center">Michael Mohr's Portfolio</h1>
 <body>
     <header>
