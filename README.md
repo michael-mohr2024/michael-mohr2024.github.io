@@ -37,16 +37,16 @@
             <h2>Projects</h2>
             <!-- Project details go here -->
             <div class="project">
-                <h3>TryHackMe Journal (Coming Soon)</h3>
+                <h3><img src="White Modern Coming Soon (Poster).png" width="175" height="248" alt=""/>TryHackMe Journal</h3>
             </div>
             <div class="project">
-                <h3>Incident Handler's Journal (Coming Soon)</h3>
+                <h3><img src="White Modern Coming Soon (Poster).png" width="175" height="248" alt=""/>Incident Handler's Journal</h3>
             </div>
             <div class="project">
-              <h3>Vulnerable System Analysis (Coming Soon)</h3>
+              <h3><img src="White Modern Coming Soon (Poster).png" width="175" height="248" alt=""/>Vulnerable System Analysis</h3>
             </div>
           <div class="project">
-            <h3>SQL Query (Coming Soon)</h3>
+            <h3><img src="White Modern Coming Soon (Poster).png" width="175" height="248" alt=""/>SQL Query</h3>
           </div>
         </section>
             <!-- ... -->
