@@ -1,9 +1,8 @@
 <title>Portfolio</title>
-</head>
 <body>
     <header>
         <div id="header-content">
-            <img src="michael-mohr.jpg" alt="Michael Mohr" id="profile-picture">
+            <img src="michael-mohr.jpg" alt="Michael Mohr Portfolio" id="profile-picture">
             <h1>Michael Mohr</h1>
             <h2>Cybersecurity Student</h2>
         </div>
