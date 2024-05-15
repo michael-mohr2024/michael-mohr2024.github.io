@@ -13,7 +13,9 @@
         </div>
         <nav>
             <a href="#Projects">Projects</a>
+        </div>
             <a href="#Certificates">Certificates</a>
+        </div>
             <a href="#Contact">Contact</a>
         </nav>
     </header>
