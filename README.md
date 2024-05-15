@@ -12,9 +12,9 @@
             <h2>Cybersecurity Student</h2>
         </div>
         <nav>
-            <a href="#projects">Projects</a>
-            <a href="#resume">Resume</a>
-            <a href="#contact">Contact</a>
+            <a href="#Projects">Projects</a>
+            <a href="#Certificates">Certificates</a>
+            <a href="#Contact">Contact</a>
         </nav>
     </header>
     <main>
