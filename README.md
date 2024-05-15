@@ -1,7 +1,7 @@
 <!-- index.html -->
 <html>
 <head>
-    <title>Michael Mohr's Portfolio</title>
+    <title>Portfolio</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
