@@ -1,8 +1,8 @@
-<title>Portfolio</title>
+<h1 class="text-center">Michael Mohr's Portfolio</h1>
 <body>
     <header>
         <div id="header-content">
-            <img src="michael-mohr.jpg" alt="Michael Mohr Portfolio" id="profile-picture">
+            <img src="michael-mohr.jpg" alt="Profile Pic" id="profile-picture">
             <h1>Michael Mohr</h1>
             <h2>Cybersecurity Student</h2>
         </div>
@@ -56,7 +56,7 @@
     </main>
     <!-- ... -->
 <footer>
-        <p>Copyright &copy; 2024 Michael Mohr</p>
-    </footer>
+  <hr>
+  <p class="footerDisclaimer">2024  Copyrights - <span>All Rights Reserved</span></p>
 
 
