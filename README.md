@@ -1,3 +1,11 @@
+body {
+    background-image: url('');
+    background-size: cover; /* This makes the background cover the whole page */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center center; /* Centers the background image */
+}
+
+
 <h1 class="text-center">Michael Mohr's Portfolio</h1>
 <body>
     <header>
