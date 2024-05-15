@@ -60,7 +60,5 @@
 <footer>
         <p>Copyright &copy; 2024 Michael Mohr</p>
     </footer>
-    <script src="script.js"></script>
-</body>
-</html>
+
 
