@@ -13,9 +13,9 @@
             <h2>Cybersecurity Student</h2>
         </div>
         <nav>
-            <a href="#Projects">Projects</a>
+            </li><a href="#Projects">Projects</a>
         </div>
-            <a href="#Certificates">Certificates</a>
+            </li><a href="#Certificates">Certificates</a>
         </div>
             <li><a href="michael.mohr2024@gmail.com">Contact</a></li>
         </nav>
