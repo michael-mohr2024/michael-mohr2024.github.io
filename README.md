@@ -20,9 +20,9 @@
         <section id="about-me">
             <h2>About Me</h2>
             <p>
-                Hello, I'm Michael Mohr, a Cybersecurity Student. I will bring a diverse background spanning from security, management, and technology, I also
-                bring a wealth of experience to the cybersecurity arena. Formerly as a Detention Superintendent at the Florida Department of Juvenile Justice, 
-                I ensured safety and compliance while identifying and mitigating security risks. Previously, as an Asset Protection Detective at 
+                Hello, I'm Michael Mohr, a Cybersecurity Certificate Student located in Daytona Beach, FL. I bring a diverse background of experience spanning from  
+                security, management, and technology to the cybersecurity arena. Formerly as a Detention Superintendent at the Florida Department of Juvenile 
+                Justice, I ensured safety and compliance while identifying and mitigating security risks. Previously, as an Asset Protection Detective at 
                 Macy's, I investigated theft and fraud, and implemented security measures to protect assets. I honed my surveillance, investigation, and 
                 data analysis skills throughout my roles.  Known for my strong communication skills, ability to multitask, tech-savviness, and expertise 
                 in analyzing data, I am committed to excellence safeguarding sensitive data.  I'm excited to contribute skills and experience to the dynamic 
