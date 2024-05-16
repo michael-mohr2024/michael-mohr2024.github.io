@@ -15,7 +15,7 @@
         <nav>
             </li><a href="#Projects">Projects</a></li>
         </div>
-            </li><a href="#Certificates">Certificates</a></li>
+            </li><a href=""href="#Certificates">Certificates</a></li>
         </div>
             <li><a href="michael.mohr2024@gmail.com">Contact</a></li>
         </nav>
