@@ -12,11 +12,12 @@
             <h1>Michael Mohr</h1>
             <h2>Cybersecurity Student</h2>
         </div>
+        <p style="text-align:center;">
         <nav>
-            <a href="#Projects">Projects</a>
-            </p>
+            <a href="#Projects">Projects<br>
         <nav/>
            <a href="https://github.com/michael-mohr2024/michael-mohr2024.github.io/blob/main/Foundations%20of%20Cybersecurity%20Course%20Certificate.pdf">Certificates</a>
+        </p>
     <main>
         <section id="about-me">
             <h2>About Me</h2>
@@ -54,7 +55,6 @@
         <section id="contact">
             <h2>Contact Me</h2>
             <a href="mailto:michael.mohr2024@gmail.com">Email</a>
-            </p>
             <a href="https://www.linkedin.com/in/michael-mohr-1206415a">Linkedin</a>
         </section> 
     </main>
