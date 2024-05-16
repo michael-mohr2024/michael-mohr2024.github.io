@@ -17,7 +17,6 @@
         </div>
             <nav/>
            <a href="https://github.com/michael-mohr2024/michael-mohr2024.github.io/blob/main/Foundations%20of%20Cybersecurity%20Course%20Certificate.pdf">Certificates</a>
-    </header>
     <main>
         <section id="about-me">
             <h2>About Me</h2>
