@@ -56,8 +56,6 @@
             <h2>Contact Me</h2>
             <a href="mailto:michael.mohr2024@gmail.com">Email<br>
             <a href="https://www.linkedin.com/in/michael-mohr-1206415a">Linkedin</a>
-        </section> 
-    </main>
     <!-- ... -->
 <footer>
   <hr>
