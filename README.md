@@ -4,13 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
 </head>
-<h1 class="text-center">Michael Mohr's Portfolio</h1>
 <body>
     <header>
         <div id="header-content">
             <img src="michael-mohr profile.jpg" alt="Profile Pic" id="profile-picture">
-            <h1>Michael Mohr</h1>
-            <h2>Cybersecurity Student</h2>
+            <h1>Aspiring Cybersecurity Professional</h1>
+            <h2>Portfolio</h2>
         </div>
         <p style="text-align:center;">
         <nav>
