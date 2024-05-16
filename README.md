@@ -51,6 +51,7 @@
             <h2>Resume</h2>
             <a href="resume.pdf">View My Resume</a>
         </section>
+               <p style="text-align:center;">
         <section id="contact">
             <h2>Contact Me</h2>
             <a href="mailto:michael.mohr2024@gmail.com">Email</br>
