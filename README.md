@@ -14,7 +14,7 @@
         </div>
         <nav>
             <a href="#Projects">Projects</a>
-            <nav/>
+        <nav/>
            <a href="https://github.com/michael-mohr2024/michael-mohr2024.github.io/blob/main/Foundations%20of%20Cybersecurity%20Course%20Certificate.pdf">Certificates</a>
     <main>
         <section id="about-me">
