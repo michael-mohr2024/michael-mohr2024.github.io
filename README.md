@@ -17,7 +17,7 @@
         </div>
             <a href="#Certificates">Certificates</a>
         </div>
-            <a href="#Contact">Contact</a>
+            <li><a href="michael.mohr2024@gmail.com">Contact</a></li>
         </nav>
     </header>
     <main>
