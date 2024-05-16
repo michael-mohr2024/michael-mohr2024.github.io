@@ -8,7 +8,7 @@
     <header>
         <div id="header-content">
             <img src="michael-mohr profile.jpg" alt="Profile Pic" id="profile-picture">
-            <h1>Aspiring Cybersecurity Professional</h1>
+            <h1>Cybersecurity Professional</h1>
             <h2>Portfolio</h2>
         </div>
         <p style="text-align:center;">
